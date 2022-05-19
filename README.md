@@ -2,7 +2,7 @@
 <h3 align="center">Neel Patadia</h3>
 <p align="center">3+ years. | Tech Consultant | Engineer | Enterprise Developer | Critical Thinker<br/>
 Website: https://telux-software.com<br/>
- <a href="https://github.com/matnex-mix/matnex-mix/blob/main/impressive-things.md">Things I did that impressed me</a></p>
+<!--<a href="https://github.com/matnex-mix/matnex-mix/blob/main/impressive-things.md">Things I did that impressed me</a></p>-->
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
